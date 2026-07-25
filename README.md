@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codesage-ai/brand/main/logo.svg" alt="AI Code Review Agent Logo" width="200"/>
 </p>
 
 <h1 align="center">AI Code Review Agent</h1>
