@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codesage-ai/brand/main/logo.svg" alt="CodeSage AI Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/codesage-ai/brand/main/logo.svg" alt="AI Code Review Agent Logo" width="200"/>
 </p>
 
-<h1 align="center">CodeSage AI</h1>
+<h1 align="center">AI Code Review Agent</h1>
 <p align="center">
   <em>Enterprise AI Code Review Platform powered by Large Language Models</em>
 </p>
@@ -19,9 +19,9 @@
 
 ## 🚀 Overview
 
-**CodeSage AI** is an enterprise-grade, production-ready AI-powered code review platform that goes far beyond simple linting. It combines **static analysis**, **machine learning**, and **large language models** to provide comprehensive, context-aware code reviews that learn and adapt to your team's standards.
+**AI Code Review Agent** is an enterprise-grade, production-ready AI-powered code review platform that goes far beyond simple linting. It combines **static analysis**, **machine learning**, and **large language models** to provide comprehensive, context-aware code reviews that learn and adapt to your team's standards.
 
-### Why CodeSage AI?
+### Why AI Code Review Agent?
 
 - **🔍 Deeper than Linters**: Catches logical bugs, security vulnerabilities, and architectural issues that traditional tools miss.
 - **🧠 AI-Powered**: Uses state-of-the-art LLMs (Llama 3, Qwen) with RAG pipeline for context-aware reviews.
@@ -310,7 +310,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md).
 
 ## 📈 Performance
 
-CodeSage AI is designed for scale:
+AI Code Review Agent is designed for scale:
 - **500+ concurrent reviews** per instance
 - **< 2 seconds** average review time for repos under 100K LOC
 - **99.9% uptime** with proper deployment
@@ -344,7 +344,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  Built with ❤️ by the CodeSage AI Team
+  Built with ❤️ by the AI Code Review Agent Team
   <br>
   <a href="https://codesage.ai">Website</a> •
   <a href="https://docs.codesage.ai">Documentation</a> •
