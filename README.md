@@ -350,3 +350,12 @@ MIT License - see [LICENSE](LICENSE) for details.
   <a href="https://blog.codesage.ai">Blog</a>
 </p>
 
+
+---
+
+## 👨‍💻 Author
+
+Developed and maintained by **Onirban Dey**.
+
+⭐ If you found this project useful, consider giving it a star!
+
