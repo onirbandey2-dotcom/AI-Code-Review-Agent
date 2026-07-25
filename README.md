@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/codesage-ai/codesage/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/></a>
-  <a href="https://github.com/codesage-ai/codesage/releases"><img src="https://img.shields.io/github/v/release/codesage-ai/codesage" alt="Release"/></a>
-  <a href="https://github.com/codesage-ai/codesage/actions"><img src="https://img.shields.io/github/actions/workflow/status/codesage-ai/codesage/ci.yml" alt="CI"/></a>
-  <a href="https://codecov.io/gh/codesage-ai/codesage"><img src="https://codecov.io/gh/codesage-ai/codesage/branch/main/graph/badge.svg" alt="Coverage"/></a>
+  <a href="https://github.com/codesage-ai/AI-Code-Review-Agent/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/></a>
+  <a href="https://github.com/codesage-ai/AI-Code-Review-Agent/releases"><img src="https://img.shields.io/github/v/release/codesage-ai/codesage" alt="Release"/></a>
+  <a href="https://github.com/codesage-ai/AI-Code-Review-Agent/actions"><img src="https://img.shields.io/github/actions/workflow/status/codesage-ai/AI-Code-Review-Agent/ci.yml" alt="CI"/></a>
+  <a href="https://codecov.io/gh/codesage-ai/codesage"><img src="https://codecov.io/gh/codesage-ai/AI-Code-Review-Agent/branch/main/graph/badge.svg" alt="Coverage"/></a>
   <a href="https://codesage.ai"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo"/></a>
 </p>
 
@@ -183,8 +183,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/codesage-ai/codesage.git
-cd codesage
+git clone https://github.com/onirbandey2-dotcom/AI-Code-Review-Agent.git
+cd AI-Code-Review-Agent
 
 # Set up environment
 cp .env.example .env
@@ -222,7 +222,7 @@ poetry run celery -A app.worker worker -l info
 ## 🏛 Project Structure
 
 ```
-codesage/
+AI-Code-Review-Agent/
 ├── backend/                    # FastAPI backend
 │   ├── app/
 │   │   ├── api/               # Route handlers
@@ -297,7 +297,7 @@ npm run test:e2e
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md).
+We welcome contributions! Please see our [GitHub Repository](CONTRIBUTING.md).
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -338,12 +338,12 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=codesage-ai/codesage&type=Date)](https://star-history.com/#codesage-ai/codesage&Date)
+[![](https://api.star-history.com/svg?repos=codesage-ai/codesage&type=Date)](https://star-history.com/#codesage-ai/codesage&Date)
 
 ---
 
 <p align="center">
-  Built with ❤️ by the AI Code Review Agent Team
+  Developed and maintained by **Onirban Dey**
   <br>
   <a href="https://codesage.ai">Website</a> •
   <a href="https://docs.codesage.ai">Documentation</a> •
@@ -358,4 +358,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 Developed and maintained by **Onirban Dey**.
 
 ⭐ If you found this project useful, consider giving it a star!
+
 
